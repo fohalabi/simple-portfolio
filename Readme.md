@@ -11,7 +11,6 @@ This is a simple portfolio website built using only HTML and CSS. It is designed
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Customization](#customization)
-- [Screenshots](#screenshots)
 
 ## Features
 1. **Header**
